@@ -1,4 +1,5 @@
 import bill from "./bill.png";
+import apple from "./apple.svg";
 import card from "./card.png";
 import quotes from "./quotes.svg";
 import send from "./Send.svg";
@@ -18,6 +19,7 @@ import people03 from "./people03.png";
 import web from "./web.svg";
 
 export {
+  apple,
   bill,
   card,
   quotes,
