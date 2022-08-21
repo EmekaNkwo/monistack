@@ -54,7 +54,7 @@ export const feedback = [
   {
     id: "feedback-1",
     content:
-      "OwlStack's Transaction Exports feature helps us easily reconcile the amounts customers pay us with what we actually have in the bank.",
+      "MoniStack's Transaction Exports feature helps us easily reconcile the amounts customers pay us with what we actually have in the bank.",
     name: "Susan Depo",
     title: "Trader",
     img: people01,
@@ -62,7 +62,7 @@ export const feedback = [
   {
     id: "feedback-2",
     content:
-      "Integrating OwlStack into our platform is the easiest we've ever had on any of our technology providers.",
+      "Integrating MoniStack into our platform is the easiest we've ever had on any of our technology providers.",
     name: "Chukwuma Okeke",
     title: "Businessman",
     img: people02,
@@ -70,7 +70,7 @@ export const feedback = [
   {
     id: "feedback-3",
     content:
-      "We’re satisfied with Paystack's ease of use, availability of useful reports, responsiveness, and most importantly, the high success rate of payments.",
+      "We’re satisfied with Monistack's ease of use, availability of useful reports, responsiveness, and most importantly, the high success rate of payments.",
     name: "Kenneth Patrick",
     title: "CEO, Crispi",
     img: people03,
